@@ -18,7 +18,6 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-<img arc='https://imgur.com/a/qYnTfid' width='' alt ='Video Walkthrough' />
+Here's a walkthrough of implemented user stories: 'https://imgur.com/a/qYnTfid.gif'
 
 Video created with QuickPlayer
