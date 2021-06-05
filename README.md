@@ -19,6 +19,6 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img arc='https://drive.google.com/file/d/1b11iXv9gzwcd_gt8gBC84vGJuM7f1HTd/view?usp=sharing'width='' alt ='Video Walkthrough' />
+<img arc='https://imgur.com/a/qYnTfid'width='' alt ='Video Walkthrough' />
 
 Video created with QuickPlayer
